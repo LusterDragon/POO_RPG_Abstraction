@@ -1,0 +1,16 @@
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\bin\Debug\net5.0\AbstraindoRPGcomPOO.exe
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\bin\Debug\net5.0\AbstraindoRPGcomPOO.deps.json
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\bin\Debug\net5.0\AbstraindoRPGcomPOO.runtimeconfig.json
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\bin\Debug\net5.0\AbstraindoRPGcomPOO.runtimeconfig.dev.json
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\bin\Debug\net5.0\AbstraindoRPGcomPOO.dll
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\bin\Debug\net5.0\ref\AbstraindoRPGcomPOO.dll
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\bin\Debug\net5.0\AbstraindoRPGcomPOO.pdb
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.AssemblyInfoInputs.cache
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.AssemblyInfo.cs
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.dll
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\ref\AbstraindoRPGcomPOO.dll
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.pdb
+C:\Users\LUAN\source\repos\AbstraindoRPGcomPOO\obj\Debug\net5.0\AbstraindoRPGcomPOO.genruntimeconfig.cache
